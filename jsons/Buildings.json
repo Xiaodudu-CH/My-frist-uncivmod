@@ -1,0 +1,20 @@
+[
+  {
+    "name": "稷下学宫",
+    "cost": 90,
+    "maintenance": 1,
+    "hurryCostModifier": 0,
+    "requiredTech": "Writing",
+    "uniques": ["[+1 Science] from every [2] population in this city", "[+1 Food]", "[+1 Science]"],
+    "replaces": "Library"
+  },
+  {
+    "name": "天工坊",
+    "cost": 120,
+    "maintenance": 2,
+    "hurryCostModifier": 0,
+    "requiredTech": "Metal Casting",
+    "uniques": ["[+1 Production] from every [2] population in this city", "[+2 Production]", "[+1 Production] from every [Lumber Mill]"],
+    "replaces": "Workshop"
+  }
+]
