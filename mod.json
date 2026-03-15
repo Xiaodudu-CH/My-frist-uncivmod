@@ -1,0 +1,8 @@
+{
+  "name": "Ming Dynasty",
+  "version": "1.0",
+  "description": "Adds the Ming Dynasty civilization to Unciv",
+  "author": "Xiaodudu-CH",
+  "rules": "jsons",
+  "supported": true
+}
