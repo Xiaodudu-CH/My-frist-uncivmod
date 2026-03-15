@@ -1,0 +1,28 @@
+[
+  {
+    "name": "秦锐士",
+    "unitType": "Swordsman",
+    "movement": 2,
+    "strength": 17,
+    "cost": 75,
+    "requiredTech": "Iron Working",
+    "obsoleteTech": "Gunpowder",
+    "upgradesTo": "Musketman",
+    "uniques": ["可以攻击后移动", "免疫近战减益"],
+    "attackSound": "sword"
+  },
+  {
+    "name": "诸葛连弩",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 7,
+    "rangedStrength": 11,
+    "range": 1,
+    "cost": 65,
+    "requiredTech": "Machinery",
+    "obsoleteTech": "Gunpowder",
+    "upgradesTo": "Crossbowman",
+    "uniques": ["对 [所有单位] 单位作战时 [+25]%", "[+1] 额外攻击每回合"],
+    "attackSound": "arrow"
+  }
+]
