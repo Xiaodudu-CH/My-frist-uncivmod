@@ -1,8 +1,9 @@
 {
-  "name": "Ming Dynasty",
-  "version": "1.0",
-  "description": "Adds the Ming Dynasty civilization to Unciv",
+  "id": "ming-dynasty-mod",
+  "title": "华夏帝国 - 科技强军",
   "author": "Xiaodudu-CH",
-  "rules": "jsons",
-  "supported": true
+  "version": "1.0",
+  "description": "添加新文明【华夏帝国】，拥有全局科研加成与强化远程单位的能力。",
+  "gameVersion": "4.19.17", 
+  "rules": "jsons"
 }
