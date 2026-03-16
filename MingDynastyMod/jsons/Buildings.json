@@ -1,0 +1,22 @@
+[
+  {
+    “name”: “稷下学宫”,
+    “cost”: 90,
+    “maintenance”: 1,
+    “hurryCostModifier”: 0,
+    “requiredTech”: “Writing”,
+    “uniqueTo”: “华夏帝国”,
+    “uniques”: [“Replaces Library”, “[+5] Science per [2] population [in this city]”, “[+1] Food”, “[+1] Science”],
+    “replaces”: “Library”
+  },
+  {
+    “name”: “天工坊”,
+    “cost”: 120,
+    “maintenance”: 2,
+    “hurryCostModifier”: 0,
+    “requiredTech”: “Metal Casting”,
+    “uniqueTo”: “华夏帝国”,
+    “uniques”: [“Replaces Workshop”, “[+1] Production per [2] population [in this city]”],
+    “replaces”: “Workshop”
+  }
+]
