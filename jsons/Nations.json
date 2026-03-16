@@ -19,9 +19,7 @@
     "cities": ["咸阳", "长安", "洛阳", "建康", "汴京", "临安", "大都", "应天", "顺天", "金陵"],
     "uniques": [
       "[+100]% Science",
-      "[+1] Range for all ranged units",
-      "[+2] Movement for all ranged units",
-      "[+50]% Experience for all ranged units"
+      "All [Ranged] units gain the [华夏远程专精] promotion for free"
     ]
   }
 ]
